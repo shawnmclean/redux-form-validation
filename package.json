@@ -6,7 +6,7 @@
   "jsnext:main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CosticaPuntaru/redux-form-validation.git"
+    "url": "git+https://github.com/shawnmclean/redux-form-validation.git"
   },
   "keywords": [
     "react",
