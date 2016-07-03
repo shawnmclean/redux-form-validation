@@ -2,7 +2,7 @@
   "name": "redux-form-validation",
   "version": "0.0.8",
   "description": "An helper to make redux form validation easyer",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shawnmclean/redux-form-validation.git"
